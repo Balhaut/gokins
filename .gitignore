@@ -1,0 +1,4 @@
+*.swp
+*_payload.json
+*_payload_pretty.json
+/gokins
